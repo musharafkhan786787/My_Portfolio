@@ -32,9 +32,6 @@ Coming soon (or add a live link here if deployed)
 - JavaScript (Vanilla)  
 - Git & GitHub  
 
-## 📂 Project Structure
-
-
 ## 👨‍💻 Author
 Developed with 💙 by Musharaf Khan
 - **GitHub**: [@musharafkhan786787](https://github.com/musharafkhan786787)
