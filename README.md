@@ -35,14 +35,14 @@ Coming soon (or add a live link here if deployed)
 ## 📂 Project Structure
 
 
-## 🧑‍💻 Author
+## 👨‍💻 Author
+Developed with 💙 by Musharaf Khan
+- **GitHub**: [@musharafkhan786787](https://github.com/musharafkhan786787)
+- **Email**: musharafkhan786787@gmail.com
+- **LinkedIn**: [Click here to connect](https://www.linkedin.com/in/musharaf-khan-5676a2287)
 
-**Musharaf Khan**  
-📧 musharafkhan.dev@gmail.com  
-🔗 [GitHub](https://github.com/musharafkhan786787)  
-🔗 [LinkedIn](https://www.linkedin.com/in/musharafkhan-dev)
+[https://www.linkedin.com/in/musharaf-khan-5676a2287](https://www.linkedin.com/in/musharaf-khan-5676a2287)
 
----
 
 Feel free to fork, star ⭐, or reach out if you're looking to collaborate or build something impactful together.
 
