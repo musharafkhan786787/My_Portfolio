@@ -91,7 +91,7 @@
     background-color: #fff;
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.07);
-    transition: all 0.3s ease;
+    transition: all 2.0s ease;
   }
   
   section:hover {
@@ -105,6 +105,7 @@
     font-size: 26px;
     border-bottom: 3px solid #007bff;
     padding-bottom: 8px;
+
   }
   
   /* Projects Grid */
@@ -188,5 +189,13 @@
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.07);
     font-size: 14px;
+  }
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 60px; /* فکسڈ ہیڈر کی اونچائی کے مطابق */
+  }
+  
+  section {
+    scroll-margin-top: 60px; /* فکسڈ ہیڈر کی اونچائی کے مطابق */
   }
   
